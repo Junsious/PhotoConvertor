@@ -16,8 +16,6 @@ PhotoEditor — это простое и удобное приложение д�
 - **GIF** (`.gif`)
 - **BMP** (`.bmp`)
 - **TIFF** (`.tiff`, `.tif`)
-- **WebP** (`.webp`)
-- **DDS** (`.dds`)
 
 ## Установка
 
@@ -71,8 +69,6 @@ PhotoEditor is a simple and user-friendly image editing application. It allows u
 - **GIF** (`.gif`)
 - **BMP** (`.bmp`)
 - **TIFF** (`.tiff`, `.tif`)
-- **WebP** (`.webp`)
-- **DDS** (`.dds`)
 
 ## Installation
 
