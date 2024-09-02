@@ -1,4 +1,4 @@
-﻿namespace PhotoEditor
+namespace PhotoEditor
 {
     partial class Form1
     {
@@ -86,13 +86,13 @@
             // 
             this.cmbOutputFormat.FormattingEnabled = true;
             this.cmbOutputFormat.Items.AddRange(new object[] {
-            "webp",
-            "png",
-            "jpeg",
-            "jpg",
-            "gif",
-            "bmp",
-            "tiff"
+            
+            "PNG",
+            "JPEG",
+            "JPG",
+            "GIF",
+            "BMP",
+            "TIFF"
             });
             this.cmbOutputFormat.Location = new System.Drawing.Point(264, 447);
             this.cmbOutputFormat.Name = "cmbOutputFormat";
