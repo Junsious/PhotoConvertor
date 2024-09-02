@@ -48,7 +48,7 @@ PhotoEditor лицензирован под лицензией GNU General Publi
 
 ## Ссылки
 
-- [GitHub-репозиторий](https://github.com/Junsious/PhotoEditor)
+- [GitHub-репозиторий](https://github.com/Junsious/PhotoConvertor)
 
 
 # PhotoEditor
@@ -101,5 +101,5 @@ If you have any questions or suggestions, please create an issue or submit a pul
 
 ## Links
 
-- [GitHub Repository](https://github.com/Junsious/PhotoEditor)
+- [GitHub Repository](https://github.com/Junsious/PhotoConvertor)
 
